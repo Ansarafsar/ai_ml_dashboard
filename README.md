@@ -21,26 +21,6 @@ Built with Python, this project showcases end-to-end data science skills—data 
   - **Visualizations**: Dynamic bar charts, top-N metrics, data snapshots.
 - **Deployment**: Streamlit app, runnable locally or via Colab with Ngrok.
 
-## Repository Structure
-
-Retail-Sales-Prediction-Dashboard/
-├── data/
-│   └── pp_df_data.csv              # Preprocessed retail sales data
-├── notebooks/
-│   ├── pp_fe_eda.ipynb             # Data preprocessing, feature engineering, EDA
-│   ├── ml_model_training.ipynb     # Train and save ML models
-│   └── llm_ml_integrated_dashboard.ipynb  # Build and launch Streamlit dashboard
-├── models/
-│   ├── linear_regression_model.pkl # Trained Linear Regression model
-│   ├── scaler_lr.pkl               # Scaler for Linear Regression
-│   ├── xgboost_model.pkl           # Trained XGBoost model
-│   ├── scaler_xgb.pkl              # Scaler for XGBoost
-│   ├── random_forest_model.pkl     # Trained Random Forest model
-│   ├── arima_model.pkl             # Trained ARIMA model
-│   ├── lstm_model.h5               # Trained LSTM model
-├── app.py                          # Streamlit dashboard code
-├── requirements.txt                # Python dependencies
-└── README.md                       # Project documentation
 
 ## Prerequisites
 
