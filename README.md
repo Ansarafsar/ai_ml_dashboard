@@ -29,7 +29,7 @@ Built with Python, this project showcases end-to-end data science skills—data 
 - **Accounts**:
   - [OpenRouter](https://openrouter.ai) for LLM API key (free tier available).
   - [Ngrok](https://ngrok.com) for public URL (free account sufficient).
-- **Dataset**: Kaggle retail sales data (provided as `pp_df_data.csv` after preprocessing).
+- **Dataset**: [Kaggle retail sales data](https://www.kaggle.com/datasets/abuhumzakhan/store-data) (provided as `pp_df_data.csv` after preprocessing).
 
 ## Setup
 
