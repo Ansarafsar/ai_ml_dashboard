@@ -1,4 +1,4 @@
-# RetailSync AI: Predictive Sales Dashboard with ML & LLM Insights
+# 𝐑𝐞𝐭𝐚𝐢𝐥𝐒𝐲𝐧𝐜 𝐀𝐈: 𝐌𝐋-𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐒𝐚𝐥𝐞𝐬 𝐅𝐨𝐫𝐞𝐜𝐚𝐬𝐭𝐢𝐧𝐠 & 𝐁𝐈 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬
 
 ![RetailSync AI Dashboard](screenshots/dashboard.png)
 
