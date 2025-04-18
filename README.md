@@ -22,6 +22,7 @@ This repository showcases end-to-end skills—data preprocessing, feature engine
 - **Deployment**: Runs locally or via Google Colab with Ngrok for public access.
 ---
 ## Structure:
+```
  RetailSync-AI/
 ├── data/
 │   └── pp_df_data.csv              # Preprocessed retail sales data
@@ -40,7 +41,7 @@ This repository showcases end-to-end skills—data preprocessing, feature engine
 ├── app.py                          # Streamlit dashboard code
 ├── requirements.txt                # Python dependencies
 └── README.md                       # Project documentation
-
+```
 ---
 ## Prerequisites
 
